@@ -39,7 +39,7 @@ Directory Traversal Scanner is a high-performance security tool designed to dete
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/directory-traversal-scanner.git
+git clone https://github.com/kingjly/directory-traversal-scanner.git
 
 # Navigate to project directory
 cd directory-traversal-scanner
