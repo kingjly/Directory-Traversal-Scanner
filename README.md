@@ -39,7 +39,7 @@ Directory Traversal Scanner 是一个高性能的目录遍历漏洞扫描工具�
 
 ```bash
 # 克隆仓库
-git clone https://github.com/yourusername/directory-traversal-scanner.git
+git clone https://github.com/kingjly/directory-traversal-scanner.git
 
 # 进入项目目录
 cd directory-traversal-scanner
